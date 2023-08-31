@@ -5,3 +5,5 @@ console.table({
   id: 1,
   name: "özge",
 });
+
+alert("uyari mesaji");
